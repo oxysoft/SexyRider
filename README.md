@@ -1,3 +1,5 @@
+![](Images/bannerlogo.png)
+
 # Preface
 
 ## Introduction
@@ -20,12 +22,13 @@ The color schemes in this repository were all made and tweaked manually to both 
 
 4. Go to `Preferences > Editor > Colors & Fonts` and select one of the color schemes. The color schemes offered here are all prefixed with `sx_` so they should be all grouped together.
 
-## In the future...
-
-- Brand new color schemes.
-- Updates and tweaks to existing color schemes.
-
 # Included...
+
+## Notes
+
+* A feature common to ALL of the color schemes is a *solid red* background to errors. This makes them **very** easy to spot at a glance.
+* The font used in all of the screenshots is a custom blend of [Iosevka](https://github.com/be5invis/Iosevka).
+* The font rendering is extra saucy despite Windows 10, thanks to the quintessencial [Mactype](https://github.com/snowie2000/mactype).
 
 ## Sunbathe
 ![](Images/cs_Sunbathe.png)
@@ -45,3 +48,8 @@ A dark color scheme that is dark and depressing, but has a touch of spunk so tha
 ![](Images/cs_AcidRain.png)
 
 According to the established laws of physics, visible green light oscillating at around 555nm stimulates cones on the retina more easily than other wavelenghts. With that in mind, I see no reason why code drawn on a green backdrop wouldn't stimulate your mind more vividly, much like green light stimulates cones.
+
+# In the future...
+
+- Brand new color schemes.
+- Updates and tweaks to existing color schemes.
