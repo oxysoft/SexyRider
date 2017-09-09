@@ -16,7 +16,9 @@ The color schemes in this repository were all made and tweaked manually to both 
 
    * **Mac OS X**: `~/Library/Preferences/.RiderXX/colors/`
    * **Linux**: `~/.RiderXX/config/colors/`
-   * **Windows**: `%USERPROFILE%\.IdeaICXX\config\colors\`
+   * **Windows**: `%USERPROFILE%\.RiderCXX\config\colors\`
+
+   Where XX is the Rider version. You might have a few directories if you've jumped between different versions, e.g. EAP and Official. Try them all or figure out which one is the right one for the Rider you're using.
 
 3. Start Rider.
 
