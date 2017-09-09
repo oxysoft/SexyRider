@@ -6,6 +6,25 @@ Jetbrains Rider uses [Resharper](https://www.jetbrains.com/resharper/) behind th
 
 The color schemes in this repository were all made and tweaked manually to both look attractive and provide greater functional insights to your brain.
 
+## Installation
+
+1. Close Rider.
+
+2. Copy the `icls` file of your choice (read: all of them) to your Rider's color directory which is inside the preferences directory. The directory can usually be found at...
+
+   * **Mac OS X**: `~/Library/Preferences/.RiderXX/colors/`
+   * **Linux**: `~/.RiderXX/config/colors/`
+   * **Windows**: `%USERPROFILE%\.IdeaICXX\config\colors\`
+
+3. Start Rider.
+
+4. Go to `Preferences > Editor > Colors & Fonts` and select one of the color schemes. The color schemes offered here are all prefixed with `sx_` so they should be all grouped together.
+
+## In the future...
+
+- Brand new color schemes.
+- Updates and tweaks to existing color schemes.
+
 # Included...
 
 ## Sunbathe
