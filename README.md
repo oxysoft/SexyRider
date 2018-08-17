@@ -58,8 +58,8 @@ Raspberries, blackberries, strawberries... F*** that, those are mainstream berri
 
 ---
 
-## JollyBeans
-![](Images/cs_JollyBeans.png)
+## Jollybeans
+![](Images/cs_Jollybeans.png)
 
 Originally started as a clone of [JellyBeans for Vim](https://github.com/nanotech/jellybeans.vim) (a classic!) but became more personalized over time and due to Rider's more granular syntax highlighthing engine and JellyBeans not being designed for C#, meaning I had to take some liberties.
 
