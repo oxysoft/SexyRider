@@ -4,17 +4,13 @@
     <property name="created">2017-09-09T16:00:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-09-09T16:01:16</property>
+    <property name="modified">2018-08-17T11:18:11</property>
     <property name="originalScheme">Acid Rain</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Iosevka" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Iosevka" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="d8f7c8" />
+    <option name="CARET_ROW_COLOR" value="e5ffc9" />
     <option name="GUTTER_BACKGROUND" value="e5ffc9" />
     <option name="INDENT_GUIDE" value="c4b59c" />
     <option name="LINE_NUMBERS_COLOR" value="6b6051" />
@@ -212,9 +208,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value />
-    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="e0085" />
@@ -282,7 +275,7 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="253b94" />
-        <option name="BACKGROUND" value="f4ffde" />
+        <option name="BACKGROUND" value="d8ffa1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -306,6 +299,12 @@
         <option name="FOREGROUND" value="552200" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="3b62c4" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="c0c11" />
@@ -324,8 +323,9 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="2d7f99" />
-        <option name="BACKGROUND" value="e8ffdb" />
+        <option name="FOREGROUND" value="253b94" />
+        <option name="BACKGROUND" value="d6ffa0" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -356,7 +356,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
-        <option name="EFFECT_COLOR" value="d8d8d8" />
+        <option name="EFFECT_COLOR" value="d8d305" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -374,7 +374,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="c30600" />
+        <option name="BACKGROUND" value="ff8e79" />
         <option name="EFFECT_COLOR" value="ff0014" />
         <option name="ERROR_STRIPE_COLOR" value="ff0014" />
         <option name="EFFECT_TYPE" value="2" />
@@ -383,7 +383,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="BACKGROUND" value="d8d8d8" />
+        <option name="BACKGROUND" value="b4d8d2" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -464,12 +464,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="3b62c4" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="142850" />
@@ -520,7 +514,15 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff0b23" />
+        <option name="BACKGROUND" value="ff8e79" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ebd416" />
+        <option name="EFFECT_COLOR" value="ffb856" />
+        <option name="ERROR_STRIPE_COLOR" value="ebac00" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -534,8 +536,8 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="bb0600" />
-        <option name="EFFECT_COLOR" value="ff0014" />
+        <option name="BACKGROUND" value="f58d73" />
+        <option name="EFFECT_COLOR" value="ff2500" />
         <option name="ERROR_STRIPE_COLOR" value="ff0014" />
       </value>
     </option>
