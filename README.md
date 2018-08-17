@@ -39,7 +39,7 @@ Furthermore, there is a second level of distinction for errors: Code which is sy
 
 ![](Images/cs_LushGreens.png)
 
-If Bob Ross had been a programmer, this is the color scheme he would have used. Sky blues, colors of forestry,  A perfect projection of nature into a technological landscape... Wow, deep.
+If Bob Ross had been a programmer, this is the color scheme he would have used. Sky blues, colors of forestry, the woods and the sun in harmony; A perfect projection of nature into a technological landscape... Wow, deep.
 
 ---
 
