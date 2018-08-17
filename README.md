@@ -4,9 +4,14 @@
 
 ## Introduction
 
-Jetbrains Rider uses [Resharper](https://www.jetbrains.com/resharper/) behind the scene which supplies much more granular syntax highlighting rules. However, a side effect of this is that most color schemes that can be found online which are touted as being compatible with all of Jetbrain' IDEs will look broken and/or plain bad in Rider as they were not made to fit the new rules.
+Jetbrains Rider uses [Resharper](https://www.jetbrains.com/resharper/) behind the scene which has a more granular mechanism for syntax highlighting rules. However, a side effect of this is that most color schemes that can be found online which are touted as being compatible with all of Jetbrains' IDEs will look broken and/or plain bad in Rider as they are not designed with these rules in mind.
 
-The color schemes in this repository were all made and tweaked manually to both look attractive and provide greater functional insights to your brain.
+Frustrated with the lack of good color schemes available to Rider, I decided to start my own line which I dub "Sexy Rider", or how to bring sexy back into IDEs. Move out of the way Atom, Code, and Sublime Text hipsters, the sexiest editor is here.
+
+## Error/Warning design philosophy
+A feature common to all of the color schemes here is a *solid red* background for errors, and a solid yellow background for warnings. (instead of the typical bacon wave underneath) This makes errors **very** easy to spot at a glance and I believe this to be a much better way to highlight errors, and makes it way harder for an error to go unnoticed before moving to compilation.
+
+Furthermore, there is a second level of distinction for errors: Code which is syntactically valid but has non-existing symbols will appear with a solid red border, whereas ordinary syntax errors will appear plain or with a bold line underneath. I believe this provides greater insight.
 
 ## Installation
 
@@ -24,13 +29,13 @@ The color schemes in this repository were all made and tweaked manually to both 
 
 4. Go to `Preferences > Editor > Colors & Fonts` and select one of the color schemes. The color schemes offered here are all prefixed with `sx_` so they should be all grouped together.
 
-# Included...
+# The Color Schemes
 
-## Notes
+## Screenshot notes
 
-* A feature common to ALL of the color schemes is a *solid red* background to errors. This makes them **very** easy to spot at a glance.
-* The font used in all of the screenshots is a custom blend of [Iosevka](https://github.com/be5invis/Iosevka).
-* The font rendering is extra saucy despite Windows 10, thanks to the quintessencial [Mactype](https://github.com/snowie2000/mactype).
+* Errorr, warnings and other modifications were introduced in an attempt to display as much of the color palette in one image. There is a part of the code highlighted as well to show the highlighting color, and the caret line background color can also be seen along with the caret.
+* The font used in all of the screenshots is my own custom build of [Iosevka](https://github.com/be5invis/Iosevka). After hopping between several different fonts throughout the years, I think Iosevka is finally the font I will stick with for a very very, _very_ long time.
+* The font rendering is extra smooth despite running on Windows 10. This is thanks to the quintessencial [Mactype](https://github.com/snowie2000/mactype).
 
 ## Sunbathe
 ![](Images/cs_Sunbathe.png)
