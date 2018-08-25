@@ -68,7 +68,7 @@ Originally started as a clone of [JellyBeans for Vim](https://github.com/nanotec
 ## Acid Rain
 ![](Images/cs_AcidRain.png)
 
-According to the established laws of physics, visible green light oscillating at around 555nm stimulates cones on the retina more easily than other wavelenghts. With that in mind, I see no reason why code drawn on a green backdrop wouldn't stimulate your mind more vividly, much like green light stimulates cones. Why the name? I'm glad you ask. Try programming in the dark for a few hours with this color scheme, the answer will appear before you eyes.
+According to established laws of physics, visible green light oscillating at around 555nm stimulates cones on the retina more easily than other wavelengths. With that in mind, I see no reason why code drawn on top of a vivid green back wouldn't stimulate the mind more vividly, much like green light stimulates cones.
 
 # In the future...
 
